@@ -1,0 +1,23 @@
+{
+  "documents": [
+    {
+      "@type": "PersonGroup",
+      "metadata": {
+        "key1": "value1"
+      },
+      "documents": [
+        "abc",
+        "cde"
+      ]
+    },
+    {
+      "@type": "DocumentGroup",
+      "metadata": {
+        "key1": "value1"
+      },
+      "documents": [
+        "ccc"
+      ]
+    }
+  ]
+}
